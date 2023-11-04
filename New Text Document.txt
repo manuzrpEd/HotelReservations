@@ -1,4 +1,0 @@
-The attached dataset contains 18 variables. 
-The target one is "booking_status" that can assume the value "canceled" or "not_canceled"
-I am looking for someone to project a KNIME workflow (that's to say using the software KNIME) to train and compare three different classification models (supervisioned) according to the three following measures of performance: accuracy, precision, recall and AUC.
-It is important to use the knime version 3.3.1 with all the possible plug-ins installed.
